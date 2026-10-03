@@ -1,0 +1,11 @@
+# Runtime data
+backups/
+blocklist.txt
+*.log
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
