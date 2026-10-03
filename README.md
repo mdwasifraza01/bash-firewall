@@ -49,7 +49,7 @@ The firewall lives in its own chains (`FW_BLOCKLIST`, `FW_GUARD`, `FW_RULES`, `F
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/bash-firewall.git
+git clone https://github.com/mdwasifraza01/bash-firewall.git
 cd bash-firewall
 chmod +x *.sh
 
